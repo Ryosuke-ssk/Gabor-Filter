@@ -52,3 +52,4 @@ cv2.imwrite('result/gabor_or.jpg',img_and)
 
 # cv2.waitKey()
 cv2.destroyAllWindows()
+
